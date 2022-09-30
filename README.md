@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Butkii
-- 👀 I’m interested in web-development and software programming. My favourite languages are C/C++ and Python.
+- 👀 I’m interested in web-development and software programming. My favourite languages are C/C++.
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: https://www.linkedin.com/in/bhakti-ghaghda/
