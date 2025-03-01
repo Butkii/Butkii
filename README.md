@@ -3,7 +3,7 @@
 I am a frontend developer based in Dubai, UAE 🇦🇪
 
 <br>🎓 BSc Computer Science and Business Information Systems from Murdoch University Dubai
-<br>💻 Associate Software Developer (Frontend Development) at **Texau Technologies** [March 2024 - Present]
+<br>💻 Software Engineer (Frontend Development) at **Texau Technologies** [March 2024 - Present]
 <br>💼 Previously worked at **FYI**, **Beno Technologies**, **IO21**
 
 ### My Tech Stack ⚡
